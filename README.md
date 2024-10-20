@@ -21,8 +21,12 @@ To get started with FileFinder, follow these steps:
     ```bash
     cd FileFinder
     ```
+3. **Make the file executable.**
+    ```bash
+    chmod +x findfiles.sh
+    ```
 
-3. **Run the Script:** Use the following command to find a file by name. Replace <filename> with the name of the file you wish to search for.
+4. **Run the Script:** Use the following command to find a file by name. Replace <filename> with the name of the file you wish to search for.
    ```bash
    ./findfiles.sh <filename>
    ```
