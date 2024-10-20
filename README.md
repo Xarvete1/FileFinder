@@ -1,5 +1,7 @@
 # FileFinder
 
+This program helps you quickly find a file in your Linux system by its name. If you're unsure where a particular file is located, simply run this script and provide the name of the file you want to search for.
+
 ## Installation
 
 1. Clone the repository
